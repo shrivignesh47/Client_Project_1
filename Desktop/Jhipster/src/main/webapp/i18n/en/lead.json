@@ -1,0 +1,40 @@
+{
+  "crmApp": {
+    "lead": {
+      "home": {
+        "title": "Leads",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Lead",
+        "createOrEditLabel": "Create or edit a Lead",
+        "notFound": "No Leads found"
+      },
+      "created": "A new Lead is created with identifier {{ param }}",
+      "updated": "A Lead is updated with identifier {{ param }}",
+      "deleted": "A Lead is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Lead {{ id }}?"
+      },
+      "detail": {
+        "title": "Lead"
+      },
+      "id": "ID",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "title": "Title",
+      "phone_no": "Phone No",
+      "fax": "Fax",
+      "lead_source": "Lead Source",
+      "lead_status": "Lead Status",
+      "industry": "Industry",
+      "no_of_Emp": "No Of Emp",
+      "annual_revenue": "Annual Revenue",
+      "rating": "Rating",
+      "street": "Street",
+      "state": "State",
+      "city": "City",
+      "zipcode": "Zipcode",
+      "country": "Country",
+      "description": "Description"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "crmApp": {
+    "status": {
+      "null": "",
+      "JUNKLEAD": "JUNKLEAD",
+      "LOSTLEAD": "LOSTLEAD",
+      "CONNECTED": "CONNECTED",
+      "NOTCONNECTED": "NOTCONNECTED"
+    }
+  }
+}

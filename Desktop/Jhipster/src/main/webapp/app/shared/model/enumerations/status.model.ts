@@ -1,0 +1,9 @@
+export enum status {
+  JUNKLEAD = 'JUNKLEAD',
+
+  LOSTLEAD = 'LOSTLEAD',
+
+  CONNECTED = 'CONNECTED',
+
+  NOTCONNECTED = 'NOTCONNECTED',
+}
